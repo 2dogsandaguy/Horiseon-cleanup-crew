@@ -2,7 +2,7 @@
 
 ## Discription
 
-The motivation for this was to help the coustumer to have a better website. That would work up to there standers. Also make them happy with my work. The reason for this product was to debug a few issues with the web page. Clean up the code so that it is easier to work with and understand where everything is flowing to. This solved the bug issue with the nav bar. The cleaning up so the html and css will make the next web delvoper have a easier time with hdml and ccs.There were alot of redundancy in the files that could get confusing. I learned that cleaning up the code make the buliding or updateing of the site quicker and easier.
+The motivation for this was to help the coustomer to have a better website. That would work up to there standers. Also make them happy with my work. The reason for this product was to debug a few issues with the web page. Clean up the code so that it is easier to work with and understand where everything is in sequential order. This solved the bug issue with the nav bar. The cleaning up so the html and css will make the next web delvoper have a easier time with hdml and ccs.There were alot of redundancy in the files that could get confusing. I learned that cleaning up the code make the buliding or updateing of the site quicker and easier.
 
 
 ## Installation
@@ -12,10 +12,10 @@ The motivation for this was to help the coustumer to have a better website. That
  -push the file to the repoisitory
  -commit file to repoisitory
 -check to make sure they are linked together
--Then start the debuging of web page 
+-Then start the debugging of web page 
 
 ## usage
-The web page has been made more user frindly to work with and work on. The nav bar has been re-coded to go to the link that you click on in nav bar. The html has been cleaned up so you can easily understand how the css is linked to html. Gave that code a sequential order.
+The web page has been made more user frindly to work with and work on. The nav bar has been re-coded to go to the link that you click on in nav bar. The html has been cleaned up so you can easily understand how the css is linked to html. Gave the code a sequential order.
 
 ## credits
 
