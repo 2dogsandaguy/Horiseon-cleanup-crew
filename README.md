@@ -2,7 +2,7 @@
 
 ## Discription
 
-The motivation for this was to help the coustomer to have a better website. That would work up to there standers. Also make them happy with my work. The reason for this product was to debug a few issues with the web page. Clean up the code so that it is easier to work with and understand where everything is in sequential order. This solved the bug issue with the nav bar. The cleaning up so the html and css will make the next web delvoper have a easier time with hdml and ccs.There were alot of redundancy in the files that could get confusing. I learned that cleaning up the code make the buliding or updateing of the site quicker and easier.
+The motivation for this was to help the customer to have a better website. That would work up to there standers. Also make them happy with my work. The reason for this product was to debug a few issues with the web page. Clean up the code so that it is easier to work with and understand where everything is in sequential order. This solved the bug issue with the nav bar. The cleaning up so the html and css will make the next web delvoper have a easier time with hdml and ccs.There were alot of redundancy in the files that could get confusing. I learned that cleaning up the code make the buliding or updateing of the site quicker and easier.
 
 
 ## Installation
