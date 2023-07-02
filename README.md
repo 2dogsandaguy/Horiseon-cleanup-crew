@@ -26,3 +26,5 @@ The web page has been made more user frindly to work with and work on. The nav b
 -https://www.youtube.com/watch?v=OEV8gMkCHXQ
 -https://www.youtube.com/watch?v=LGQuIIv2RVA&t=38s
 -bootcampspot
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
