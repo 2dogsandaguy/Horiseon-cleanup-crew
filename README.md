@@ -17,6 +17,9 @@ The motivation for this was to help the customer to have a better website. That 
 ## usage
 The web page has been made more user frindly to work with and work on. The nav bar has been re-coded to go to the link that you click on in nav bar. The html has been cleaned up so you can easily understand how the css is linked to html. Gave the code a sequential order.
 
+link to the site: https://2dogsandaguy.github.io/Horiseon-cleanup-crew/
+
+
 ## credits
 
 -My class mates in the bootcamp
